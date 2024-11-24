@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tasnim Shaikh</h1>
+![image](https://github.com/user-attachments/assets/bf521f47-14f8-4639-a872-0f8aeeceb51c)<h1 align="center">Hi 👋, I'm Tasnim Shaikh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="right"><img src="D:\DSE 3rd Sem\coding-girl.gif"/></p>
+<p align="right"><img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasnim-shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="tasnim-shaikh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasnim-shaikh" alt="tasnim-shaikh" /></a> </p>
